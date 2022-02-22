@@ -1,6 +1,4 @@
-# 操作系统课设报告
-  
-赵鹏哲 201906061532
+# 斯坦福大学操作系统课程设计 Pintos  
 ### Pintos的安装和配置
 1. 安装qemu  
 `sudo apt-get install qemu`  
