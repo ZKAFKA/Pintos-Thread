@@ -1,5 +1,5 @@
 # 斯坦福大学操作系统课程设计 Pintos  
-##### thread部分的完成
+  
 ### Pintos的安装和配置
 1. 安装qemu  
 `sudo apt-get install qemu`  
